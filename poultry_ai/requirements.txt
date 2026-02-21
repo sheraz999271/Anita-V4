@@ -1,0 +1,6 @@
+PyQt6==6.7.1
+tensorflow==2.17.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+matplotlib==3.9.2
+pyinstaller==6.10.0
